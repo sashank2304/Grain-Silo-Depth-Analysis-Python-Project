@@ -1,4 +1,7 @@
-🌾 Silo Level Sensor  
+Here’s a GitHub README for your Silo Level Sensor project:  
+
+```markdown
+# 🌾 Silo Level Sensor  
 
 ## 📌 Objective  
 To optimize inventory management, prevent overfilling or underfilling of silos, and minimize operational risks.  
@@ -19,7 +22,7 @@ To optimize inventory management, prevent overfilling or underfilling of silos, 
 
 ## 💻 Code  
 
-python
+```python
 import RPi.GPIO as GPIO
 import time
 
@@ -62,7 +65,7 @@ except KeyboardInterrupt:
 
 finally:
     GPIO.cleanup()
-
+```
 
 ## 📖 Code Explanation  
 
@@ -101,6 +104,8 @@ finally:
 
 ---
 
-💡 **Developed by**: Sashank Abburu  
+💡 **Developed by**: [Your Name]  
 📌 **License**: MIT  
-  
+```  
+
+This README is formatted for GitHub with clear sections, tables, and explanations. Let me know if you want any modifications! 🚀
