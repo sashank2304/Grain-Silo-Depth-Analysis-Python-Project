@@ -1,6 +1,3 @@
-Here’s a GitHub README for your Silo Level Sensor project:  
-
-```markdown
 # 🌾 Silo Level Sensor  
 
 ## 📌 Objective  
@@ -104,8 +101,8 @@ finally:
 
 ---
 
-💡 **Developed by**: [Your Name]  
-📌 **License**: MIT  
+💡 **Developed by**: Sashank Abburu, Srikanth Dinesh, T Pushkar Reddy
+  
 ```  
 
-This README is formatted for GitHub with clear sections, tables, and explanations. Let me know if you want any modifications! 🚀
+
